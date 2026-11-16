@@ -1,4 +1,4 @@
-markdown
+README.md
 # Projeto: Filtragem de Notas de Alunos com Python
 
 Este repositório contém um script desenvolvido para praticar estruturas de dados (dicionários e listas) em Python.
